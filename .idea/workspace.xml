@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6a35236-ebd2-479d-89f2-92175c9f052f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abrevia_nome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conta_palavras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mes_extenso.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/musica.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/musica1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/musica2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questao5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questao6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questao7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selma.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -231,7 +220,7 @@
       <workItem from="1568318225650" duration="2863000" />
       <workItem from="1568321122551" duration="63000" />
       <workItem from="1570550904748" duration="1994000" />
-      <workItem from="1570567812953" duration="8498000" />
+      <workItem from="1570567812953" duration="9799000" />
     </task>
     <servers />
   </component>

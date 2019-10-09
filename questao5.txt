@@ -1,0 +1,24 @@
+Levens: Calcula a distancia de Levenshtein. A Distância Levenshtein e as idéias subjacentes
+são amplamente usadas em áreas como ciência da computação, linguística de computação e até bioinformática,
+biologia molecular, análise de DNA.
+
+Pygame: usada na criação de aplicações multimídia como jogos. Ela é uma camada de abstração construída
+sobre a biblioteca SDL. Tem funções diferentes para desenhar formas diferentes em um objeto de superfície.
+
+scikit-learn: é uma biblioteca de aprendizado de máquina de código aberto para a linguagem de programação Python.
+
+Pandas:  biblioteca de software livre criada para a linguagem de programação Python para manipulação e análise de dados.
+O Pandas é usado principalmente para Machine Learning na forma de quadros de dados. O Pandas permite importar dados de
+vários formatos de arquivo, como csv, excel etc.
+
+TensorFlow: O TensorFlow é uma biblioteca de código aberto compatível com Python para computação numérica
+que torna o machine learning mais rápido e fácil. Permite que /os desenvolvedores criem gráficos de fluxo
+de dados estruturas que descrevem como os dados se movem em um gráfico ou uma série de nós de processamento.
+O python fornece maneiras convenientes de expressar como as abstrações de alto nível podem ser acopladas.
+
+Tweepy:  O Tweepy é de código aberto, hospedado no GitHub e permite que o Python se comunique com a plataforma do Twitter e use sua API.
+
+Scrapy: Biblioteca de raspagem de dados.
+
+Open CV: Desenvolvida pela Intel, em 2000, é uma biblioteca multiplataforma, totalmente livre ao uso acadêmico e comercial, para o desenvolvimento de aplicativos na área
+de Visão computacional, bastando seguir o modelo de licença BSD Intel; Possui funções de manipulação básica de imagens e vídeo, desde o carregamento de arquivos até conversão em outro.
