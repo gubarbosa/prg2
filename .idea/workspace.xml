@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6a35236-ebd2-479d-89f2-92175c9f052f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/kakop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_bola.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_quadrado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_retangulo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -228,7 +223,8 @@
       <workItem from="1570550904748" duration="1994000" />
       <workItem from="1570567812953" duration="10211000" />
       <workItem from="1571691909619" duration="201000" />
-      <workItem from="1573498373521" duration="5215000" />
+      <workItem from="1573498373521" duration="5476000" />
+      <workItem from="1573585310604" duration="45000" />
     </task>
     <servers />
   </component>
