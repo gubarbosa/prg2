@@ -9,7 +9,7 @@ def verDiretorio():
         os.system('ls')
 
 def criarPasta():
-    pasta = os.system('mkdir Macacos')
+    os.system('mkdir Macacos')
 
 
 criarPasta()
